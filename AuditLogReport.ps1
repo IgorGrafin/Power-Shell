@@ -1,4 +1,7 @@
-﻿param(
+﻿#by Mike Pfeiffer 
+#https://github.com/mikepfeiffer
+#http://twitter.com/mike_pfeiffer
+param(
 [Parameter(Position=0, Mandatory=$true)]
 $To,
 [Parameter(Position=1, Mandatory=$true)]
